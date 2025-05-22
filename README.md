@@ -33,7 +33,8 @@ Task 1: Design a phishing email simulation
 ----------------------------------------------
 In this task, I have composed a Phishing Email following the guidelines provided
 
-
-
-
 Task 2: Interpret phishing simulation results
+-------------------------------------------------
+In this task, I analyzed phishing email results and created the 'Mastercard Employee Awareness Phishing Presentation' to strengthen cybersecurity awareness among employees at Mastercard.
+
+
